@@ -30,6 +30,9 @@ Evaluate the trained model's performance on the test set by plotting training/va
 
 
 ## PROGRAM
+
+### Name:Thirugnanamoorthi G
+### Register Number:212221230117
 ```
 import numpy as np
 from tensorflow import keras
